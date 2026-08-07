@@ -1,0 +1,1 @@
+var e={connecting:`Connecting…`,live:`Live`,reconnecting:`Reconnecting…`,offline:`Offline`,takenOver:`Opened in another tab`,evicted:`No longer in this room`};export{e as t};

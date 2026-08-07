@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.utilsware.arcadami",
+      "sha256_cert_fingerprints": [
+        "D7:30:15:AA:9A:EB:07:1E:1C:8F:A2:78:D0:26:AE:FF:13:9D:D9:BA:7D:11:05:DF:8D:BA:C0:16:CC:A9:87:E0"
+      ]
+    }
+  }
+]

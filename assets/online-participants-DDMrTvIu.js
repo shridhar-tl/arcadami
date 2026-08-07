@@ -1,0 +1,1 @@
+function e(e,t,n){return e.map((e,r)=>{let i=t.find(t=>t.memberId===e);return{profileId:null,name:i?.displayName??n?.[r]??`Player ${r+1}`,avatarKey:i?.avatarKey??`cat`,score:0}})}export{e as t};

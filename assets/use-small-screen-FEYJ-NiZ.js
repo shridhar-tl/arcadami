@@ -1,0 +1,1 @@
+import{A as e}from"./index-DUW3p5DL.js";var t=`(max-width: 640px)`,n=`Needs a larger screen`;function r(){return e(t)}export{r as n,n as t};
